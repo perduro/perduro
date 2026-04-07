@@ -1,2 +1,2 @@
 # perduro
-in  development
+in development
